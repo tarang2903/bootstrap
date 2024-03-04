@@ -1,0 +1,66 @@
+body
+{
+    background-color: lightcyan;
+}
+.firt
+{
+    border: 3px solid black;
+    
+}
+.logo
+{
+    margin-left: 10px;
+}
+
+.ul a{
+    color: black;
+
+}
+
+.ul{
+    border: 2px solid black;
+    text-align: center; 
+    width: fit-content;
+    margin-left: 100px;
+}
+h5{
+    text-align: center;
+}
+.youtube
+{
+    margin-top: 20px;
+}
+ .col  img
+{
+    height: 300px;
+    width: 300px;
+    margin-top: 10px;
+    
+}
+footer h5
+{
+    background-color: lightblue;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+footer 
+{
+    background-color: rgb(34, 110, 135);
+    padding: 20px;
+    text-align: center;
+    color: black;
+    border: 3px solid black;
+}
+ul a 
+{
+    color: black;
+    text-align: center; 
+    width: fit-content;
+    text-decoration: none;
+}
+.box
+{
+    list-style-type: none;
+
+}
